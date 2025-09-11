@@ -1,9 +1,11 @@
-Objectives: sebuah automation test menggunakan Selenium WebDriver dengan studi kasus sederhana pada website:
+ ### **Objectives**
+sebuah automation test menggunakan Selenium WebDriver dengan studi kasus sederhana pada website:
 https://www.globalsqa.com/angularJs-protractor/BankingProject/ 
 
-VIDEO RECORDING >>> https://drive.google.com/drive/folders/1PbwoBMwNQDlvQhCq2ecY60FxtP5GYfG5?usp=sharing 
+ ### **Video Recording**
+https://drive.google.com/drive/folders/1PbwoBMwNQDlvQhCq2ecY60FxtP5GYfG5?usp=sharing 
 
-Studi Kasus yang harus dikerjakan:
+ ### **Studi Kasus yang harus dikerjakan:**
 1. Click button “Customer Login”
 2. Select dropdown “Your Name”
 3. Click button “Login”
